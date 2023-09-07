@@ -1,0 +1,1280 @@
+﻿"VAR","Variable","UNIT","Measure","COU","Country","YEA","Year","Value","Flag Codes","Flags"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","AUS","Australia","2010","2010",57.8,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","AUS","Australia","2011","2011",56.9,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","AUS","Australia","2012","2012",57.2,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","AUS","Australia","2013","2013",57.6,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","AUS","Australia","2014","2014",57.2,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","AUS","Australia","2015","2015",56.1,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","AUS","Australia","2016","2016",55.4,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","AUS","Australia","2017","2017",56.3,"E","Estimated value"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","AUS","Australia","2020","2020",55.7,"E; B; D","Estimated value; Break; Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","BEL","Belgium","2010","2010",62.9,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","BEL","Belgium","2011","2011",60.7,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","BEL","Belgium","2012","2012",59.4,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","BEL","Belgium","2013","2013",59.2,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","BEL","Belgium","2014","2014",52.9,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","BEL","Belgium","2015","2015",50.6,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","BEL","Belgium","2016","2016",53.1,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","BEL","Belgium","2017","2017",53.2,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","BEL","Belgium","2018","2018",50.8,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","BEL","Belgium","2019","2019",49.5,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","BEL","Belgium","2020","2020",45.7,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CAN","Canada","2011","2011",64,"E","Estimated value"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CAN","Canada","2015","2015",61,"E","Estimated value"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CAN","Canada","2016","2016",61.1,"E","Estimated value"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CAN","Canada","2018","2018",60,"E","Estimated value"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CAN","Canada","2019","2019",59.1,"E","Estimated value"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CZE","Czech Republic","2012","2012",72.6,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CZE","Czech Republic","2013","2013",73.8,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CZE","Czech Republic","2014","2014",74.7,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CZE","Czech Republic","2015","2015",75.3,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CZE","Czech Republic","2016","2016",75.4,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CZE","Czech Republic","2017","2017",75.3,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CZE","Czech Republic","2018","2018",75.3,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CZE","Czech Republic","2019","2019",75.4,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CZE","Czech Republic","2020","2020",75,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","DNK","Denmark","2010","2010",64.9,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","DNK","Denmark","2011","2011",65.6,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","DNK","Denmark","2012","2012",64.2,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","DNK","Denmark","2013","2013",66.2,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","DNK","Denmark","2014","2014",66,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","DNK","Denmark","2015","2015",64.8,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","DNK","Denmark","2016","2016",63.5,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","DNK","Denmark","2017","2017",62,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","DNK","Denmark","2018","2018",62.3,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","DNK","Denmark","2019","2019",61,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FIN","Finland","2010","2010",66.7,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FIN","Finland","2011","2011",67.9,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FIN","Finland","2012","2012",67.4,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FIN","Finland","2013","2013",70.9,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FIN","Finland","2014","2014",70.1,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FIN","Finland","2015","2015",69.5,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FIN","Finland","2016","2016",70.5,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FIN","Finland","2017","2017",70.6,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FIN","Finland","2018","2018",70.9,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FIN","Finland","2019","2019",71.3,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FRA","France","2014","2014",58.8,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FRA","France","2015","2015",59.2,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FRA","France","2016","2016",59.1,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FRA","France","2017","2017",59.4,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FRA","France","2018","2018",59.4,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FRA","France","2019","2019",58.2,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","FRA","France","2020","2020",58.8,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","HUN","Hungary","2010","2010",38.7,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","HUN","Hungary","2011","2011",38.3,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","HUN","Hungary","2012","2012",37.5,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","HUN","Hungary","2013","2013",36.6,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","HUN","Hungary","2014","2014",35.6,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","HUN","Hungary","2015","2015",35.3,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","HUN","Hungary","2016","2016",35.1,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","HUN","Hungary","2017","2017",34.2,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","HUN","Hungary","2018","2018",32.2,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","HUN","Hungary","2019","2019",30.2,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","HUN","Hungary","2020","2020",27.5,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISL","Iceland","2010","2010",65,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISL","Iceland","2011","2011",61,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISL","Iceland","2012","2012",64,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISL","Iceland","2013","2013",64,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISL","Iceland","2014","2014",73,"B; D","Break; Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISL","Iceland","2015","2015",71,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISL","Iceland","2016","2016",68,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISL","Iceland","2017","2017",66,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISL","Iceland","2018","2018",66,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISL","Iceland","2019","2019",67,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISL","Iceland","2020","2020",66,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISL","Iceland","2021","2021",65,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","IRL","Ireland","2011","2011",60.9,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","IRL","Ireland","2012","2012",67.9,"B; D","Break; Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","IRL","Ireland","2013","2013",74.7,"B; D","Break; Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","IRL","Ireland","2014","2014",77,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","IRL","Ireland","2015","2015",78.7,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","IRL","Ireland","2016","2016",79.7,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","IRL","Ireland","2017","2017",80.2,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","IRL","Ireland","2018","2018",79.7,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","IRL","Ireland","2019","2019",79.2,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","IRL","Ireland","2020","2020",71.7,"D; P","Difference in methodology; Provisional value"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2010","2010",40,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2011","2011",41.2,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2012","2012",41,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2013","2013",41.5,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2014","2014",40.5,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2015","2015",39.8,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2016","2016",40.9,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2017","2017",40.5,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2018","2018",39.6,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2019","2019",38.5,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2020","2020",34.2,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2010","2010",43.8,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2011","2011",48.4,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2012","2012",48.7,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2013","2013",51.7,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2014","2014",55.2,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2015","2015",57.7,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2016","2016",55.6,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2017","2017",57.1,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2018","2018",59.9,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2019","2019",62.3,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2020","2020",57,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LUX","Luxembourg","2013","2013",50.8,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LUX","Luxembourg","2014","2014",67.8,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LUX","Luxembourg","2015","2015",75.4,"B","Break"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LUX","Luxembourg","2016","2016",76,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LUX","Luxembourg","2017","2017",76.6,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LUX","Luxembourg","2018","2018",74.3,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LUX","Luxembourg","2019","2019",69.8,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LUX","Luxembourg","2020","2020",61,"P","Provisional value"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","MEX","Mexico","2010","2010",57,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","MEX","Mexico","2011","2011",58.9,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","MEX","Mexico","2012","2012",60.3,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","MEX","Mexico","2013","2013",60.6,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","MEX","Mexico","2014","2014",56.8,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","MEX","Mexico","2015","2015",54.7,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","MEX","Mexico","2016","2016",53.2,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","MEX","Mexico","2017","2017",53.9,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","MEX","Mexico","2018","2018",53.6,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","MEX","Mexico","2019","2019",45.9,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","MEX","Mexico","2020","2020",35.1,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2010","2010",65.5,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2011","2011",66.2,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2012","2012",65.2,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2013","2013",66.2,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2014","2014",64.6,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2015","2015",64.4,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2016","2016",60.3,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2017","2017",57,"B; D","Break; Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2018","2018",57.6,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2019","2019",56,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2020","2020",49.7,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NZL","New Zealand","2010","2010",78.6,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NZL","New Zealand","2011","2011",78.5,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NZL","New Zealand","2012","2012",78.7,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NZL","New Zealand","2013","2013",75.3,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NZL","New Zealand","2014","2014",74.6,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NZL","New Zealand","2015","2015",74.4,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NZL","New Zealand","2016","2016",73.8,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NZL","New Zealand","2017","2017",72.6,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NZL","New Zealand","2018","2018",71.8,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NZL","New Zealand","2019","2019",71.1,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NZL","New Zealand","2020","2020",69.4,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NZL","New Zealand","2021","2021",68.4,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NOR","Norway","2010","2010",76.7,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NOR","Norway","2011","2011",76.2,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NOR","Norway","2012","2012",75.9,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NOR","Norway","2013","2013",74.1,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NOR","Norway","2014","2014",73.5,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NOR","Norway","2015","2015",74.1,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NOR","Norway","2016","2016",74.4,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NOR","Norway","2017","2017",70,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","NOR","Norway","2018","2018",76.3,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVK","Slovak Republic","2010","2010",48.5,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVK","Slovak Republic","2011","2011",47.5,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVK","Slovak Republic","2012","2012",47.5,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVK","Slovak Republic","2013","2013",47.2,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVK","Slovak Republic","2014","2014",46.9,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVK","Slovak Republic","2015","2015",48.3,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVK","Slovak Republic","2016","2016",46,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVK","Slovak Republic","2017","2017",46.2,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVK","Slovak Republic","2018","2018",45.6,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVK","Slovak Republic","2019","2019",46.1,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVK","Slovak Republic","2020","2020",40.1,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SWE","Sweden","2010","2010",80.1,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SWE","Sweden","2011","2011",79.2,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SWE","Sweden","2012","2012",79.7,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SWE","Sweden","2013","2013",80.5,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SWE","Sweden","2014","2014",81.4,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SWE","Sweden","2015","2015",81.7,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SWE","Sweden","2016","2016",72.5,"B; D","Break; Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SWE","Sweden","2017","2017",73.6,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SWE","Sweden","2018","2018",75.9,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SWE","Sweden","2019","2019",79.9,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SWE","Sweden","2020","2020",79.4,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","TUR","Türkiye","2010","2010",36.8,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","TUR","Türkiye","2011","2011",41,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","TUR","Türkiye","2012","2012",40,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","TUR","Türkiye","2013","2013",41.2,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","TUR","Türkiye","2014","2014",42.3,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","TUR","Türkiye","2015","2015",46.5,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","TUR","Türkiye","2016","2016",47.8,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","TUR","Türkiye","2017","2017",47.8,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","TUR","Türkiye","2018","2018",47,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","TUR","Türkiye","2019","2019",46,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","TUR","Türkiye","2020","2020",38.1,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","GBR","United Kingdom","2010","2010",78.9,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","GBR","United Kingdom","2011","2011",78.6,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","GBR","United Kingdom","2012","2012",78.7,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","GBR","United Kingdom","2013","2013",78.3,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","GBR","United Kingdom","2014","2014",77.8,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","GBR","United Kingdom","2015","2015",77.2,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","GBR","United Kingdom","2016","2016",76.5,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","GBR","United Kingdom","2017","2017",75.4,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","GBR","United Kingdom","2018","2018",74.8,"E","Estimated value"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","GBR","United Kingdom","2019","2019",74.4,"E","Estimated value"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","GBR","United Kingdom","2020","2020",74,"P","Provisional value"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CHL","Chile","2010","2010",59.5,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CHL","Chile","2011","2011",58.4,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CHL","Chile","2012","2012",60.2,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CHL","Chile","2013","2013",57.9,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CHL","Chile","2014","2014",59.5,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CHL","Chile","2015","2015",55.9,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CHL","Chile","2016","2016",56.5,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CHL","Chile","2017","2017",55.5,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CHL","Chile","2018","2018",53.6,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CHL","Chile","2019","2019",52,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CHL","Chile","2020","2020",45.9,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","CHL","Chile","2021","2021",43.1,"P","Provisional value"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","EST","Estonia","2010","2010",44,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","EST","Estonia","2011","2011",53,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","EST","Estonia","2012","2012",50,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","EST","Estonia","2013","2013",49.2,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","EST","Estonia","2014","2014",50,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","EST","Estonia","2015","2015",45.9,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","EST","Estonia","2016","2016",45.9,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","EST","Estonia","2017","2017",50.7,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","EST","Estonia","2018","2018",45.3,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","EST","Estonia","2019","2019",46.1,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","EST","Estonia","2020","2020",42.2,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISR","Israel","2013","2013",47.1,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISR","Israel","2014","2014",46.7,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISR","Israel","2015","2015",45.6,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISR","Israel","2016","2016",48.4,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISR","Israel","2017","2017",49.9,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISR","Israel","2018","2018",51.5,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","ISR","Israel","2019","2019",53.9,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVN","Slovenia","2010","2010",71.4,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVN","Slovenia","2011","2011",71.5,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVN","Slovenia","2012","2012",71.3,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVN","Slovenia","2013","2013",71.5,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVN","Slovenia","2014","2014",71.3,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVN","Slovenia","2015","2015",71.5,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVN","Slovenia","2016","2016",71.9,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVN","Slovenia","2017","2017",72,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVN","Slovenia","2018","2018",72,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVN","Slovenia","2019","2019",72.4,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVN","Slovenia","2020","2020",69.6,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","SVN","Slovenia","2021","2021",71.7,"D","Difference in methodology"
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","AUT","Austria","2014","2014",86.6,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","AUT","Austria","2019","2019",84.6,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","BEL","Belgium","2013","2013",68.7,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","BEL","Belgium","2018","2018",68.1,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","CAN","Canada","2012","2012",73.4,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","CAN","Canada","2017","2017",74,"B; D","Break; Difference in methodology"
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","CZE","Czech Republic","2014","2014",87.2,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","CZE","Czech Republic","2019","2019",90.9,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","FRA","France","2010","2010",71.1,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","FRA","France","2012","2012",73.6,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","FRA","France","2014","2014",75.4,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","FRA","France","2019","2019",76.3,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","DEU","Germany","2014","2014",80.3,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","DEU","Germany","2019","2019",77.9,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","GRC","Greece","2014","2014",75.5,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","GRC","Greece","2019","2019",72.9,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","HUN","Hungary","2014","2014",70.6,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","HUN","Hungary","2019","2019",74,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","IRL","Ireland","2015","2015",78,"E","Estimated value"
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2010","2010",77.8,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2011","2011",77.8,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2012","2012",78.9,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2013","2013",80,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2014","2014",78.1,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2015","2015",79.8,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2016","2016",80.2,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2017","2017",78.9,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2018","2018",79.8,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2019","2019",81,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ITA","Italy","2020","2020",77.3,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","JPN","Japan","2010","2010",37.7,"B","Break"
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","JPN","Japan","2013","2013",42.1,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","JPN","Japan","2016","2016",42.4,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","JPN","Japan","2019","2019",43.7,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2010","2010",63.8,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2011","2011",63.2,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2012","2012",68.7,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2013","2013",67.3,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2014","2014",66.7,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2015","2015",56.6,"B","Break"
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2016","2016",55.7,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2017","2017",60.7,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2018","2018",49.7,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2019","2019",52.2,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","KOR","Korea","2020","2020",51.7,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","LUX","Luxembourg","2014","2014",83.6,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","LUX","Luxembourg","2019","2019",83.6,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2010","2010",65.7,"B","Break"
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2011","2011",64.8,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2012","2012",64.9,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2013","2013",65.1,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2014","2014",62.9,"B","Break"
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2015","2015",63.7,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2016","2016",60.8,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2017","2017",61.8,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2018","2018",59.3,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","NLD","Netherlands","2019","2019",60,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","POL","Poland","2014","2014",71.7,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","POL","Poland","2019","2019",72.9,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","PRT","Portugal","2014","2014",70.7,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","PRT","Portugal","2019","2019",65.5,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","SVK","Slovak Republic","2014","2014",69,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","SVK","Slovak Republic","2019","2019",72,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ESP","Spain","2011","2011",67.7,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ESP","Spain","2014","2014",68.7,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ESP","Spain","2017","2017",70,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ESP","Spain","2020","2020",68.4,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","CHE","Switzerland","2012","2012",73.6,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","CHE","Switzerland","2017","2017",75.5,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","TUR","Türkiye","2014","2014",23.4,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","TUR","Türkiye","2016","2016",26.3,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","TUR","Türkiye","2019","2019",31.3,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","GBR","United Kingdom","2014","2014",62.8,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","USA","United States","2010","2010",85,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","USA","United States","2013","2013",84.5,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","USA","United States","2015","2015",83.3,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","USA","United States","2018","2018",82.4,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","USA","United States","2019","2019",72.6,"B","Break"
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","CHL","Chile","2011","2011",58.5,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","CHL","Chile","2013","2013",55.5,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","CHL","Chile","2015","2015",58.3,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","CHL","Chile","2017","2017",57.6,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","EST","Estonia","2014","2014",57.7,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","EST","Estonia","2019","2019",58.7,,
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ISR","Israel","2010","2010",55.2,"D","Difference in methodology"
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ISR","Israel","2015","2015",58.6,"D","Difference in methodology"
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","ISR","Israel","2019","2019",63.1,"D","Difference in methodology"
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","SVN","Slovenia","2014","2014",70.7,"D","Difference in methodology"
+"SCRNCRCS","Cervical cancer screening, survey data","FECSCRTX","% of females aged 20-69 screened","SVN","Slovenia","2019","2019",80,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","AUS","Australia","2010","2010",55.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","AUS","Australia","2011","2011",55.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","AUS","Australia","2012","2012",55,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","AUS","Australia","2013","2013",54.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","AUS","Australia","2014","2014",54.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","AUS","Australia","2015","2015",54.5,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","AUS","Australia","2016","2016",55.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","AUS","Australia","2017","2017",55,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","AUS","Australia","2018","2018",54.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","AUS","Australia","2019","2019",54.5,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","AUS","Australia","2020","2020",49.5,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","BEL","Belgium","2010","2010",61.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","BEL","Belgium","2011","2011",62.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","BEL","Belgium","2012","2012",62.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","BEL","Belgium","2013","2013",62.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","BEL","Belgium","2014","2014",61.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","BEL","Belgium","2015","2015",61.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","BEL","Belgium","2016","2016",61.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","BEL","Belgium","2017","2017",61,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","BEL","Belgium","2018","2018",60.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","BEL","Belgium","2019","2019",59.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CAN","Canada","2011","2011",53.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CAN","Canada","2012","2012",54,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CAN","Canada","2013","2013",53.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CAN","Canada","2014","2014",54.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CAN","Canada","2015","2015",61,"E; B","Estimated value; Break"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CAN","Canada","2016","2016",61.7,"E","Estimated value"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CAN","Canada","2017","2017",61.8,"E","Estimated value"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CAN","Canada","2018","2018",62,"E","Estimated value"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CAN","Canada","2019","2019",59.7,"E","Estimated value"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CZE","Czech Republic","2010","2010",49.5,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CZE","Czech Republic","2011","2011",52.2,"B","Break"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CZE","Czech Republic","2012","2012",54.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CZE","Czech Republic","2013","2013",57.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CZE","Czech Republic","2014","2014",60.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CZE","Czech Republic","2015","2015",61,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CZE","Czech Republic","2016","2016",60.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CZE","Czech Republic","2017","2017",60.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CZE","Czech Republic","2018","2018",60.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CZE","Czech Republic","2019","2019",60.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CZE","Czech Republic","2020","2020",58.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","DNK","Denmark","2010","2010",77.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","DNK","Denmark","2012","2012",83,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","DNK","Denmark","2014","2014",84.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","DNK","Denmark","2016","2016",82.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","DNK","Denmark","2018","2018",83.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","DNK","Denmark","2020","2020",83.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FIN","Finland","2010","2010",84.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FIN","Finland","2011","2011",84.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FIN","Finland","2012","2012",83,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FIN","Finland","2013","2013",83.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FIN","Finland","2014","2014",82.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FIN","Finland","2015","2015",82.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FIN","Finland","2016","2016",82.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FIN","Finland","2017","2017",81.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FIN","Finland","2018","2018",81.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FIN","Finland","2019","2019",81.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FIN","Finland","2020","2020",80.5,"E","Estimated value"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FRA","France","2010","2010",52.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FRA","France","2011","2011",52.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FRA","France","2012","2012",52.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FRA","France","2013","2013",51.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FRA","France","2014","2014",52,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FRA","France","2015","2015",51.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FRA","France","2016","2016",50.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FRA","France","2017","2017",49.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FRA","France","2018","2018",50.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FRA","France","2019","2019",48.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","FRA","France","2020","2020",42.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","DEU","Germany","2010","2010",53.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","DEU","Germany","2011","2011",55.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","DEU","Germany","2012","2012",56.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","DEU","Germany","2013","2013",56.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","DEU","Germany","2014","2014",54.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","DEU","Germany","2015","2015",51.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","DEU","Germany","2016","2016",51,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","DEU","Germany","2017","2017",49.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","DEU","Germany","2018","2018",50.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","DEU","Germany","2019","2019",49.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","HUN","Hungary","2010","2010",47.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","HUN","Hungary","2011","2011",46.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","HUN","Hungary","2012","2012",44.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","HUN","Hungary","2013","2013",43.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","HUN","Hungary","2014","2014",42.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","HUN","Hungary","2015","2015",42.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","HUN","Hungary","2016","2016",42,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","HUN","Hungary","2017","2017",41.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","HUN","Hungary","2018","2018",40,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","HUN","Hungary","2019","2019",39.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","HUN","Hungary","2020","2020",33.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISL","Iceland","2010","2010",59,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISL","Iceland","2011","2011",58,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISL","Iceland","2012","2012",59,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISL","Iceland","2013","2013",59,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISL","Iceland","2014","2014",59,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISL","Iceland","2015","2015",58,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISL","Iceland","2016","2016",55,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISL","Iceland","2017","2017",57,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISL","Iceland","2018","2018",57,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISL","Iceland","2019","2019",61,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISL","Iceland","2020","2020",62,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISL","Iceland","2021","2021",54,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","IRL","Ireland","2010","2010",73.9,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","IRL","Ireland","2011","2011",74.5,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","IRL","Ireland","2012","2012",71.4,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","IRL","Ireland","2013","2013",70.2,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","IRL","Ireland","2014","2014",76.5,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","IRL","Ireland","2015","2015",74.7,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","IRL","Ireland","2016","2016",75.1,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","IRL","Ireland","2017","2017",73.8,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","IRL","Ireland","2018","2018",74.3,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","IRL","Ireland","2019","2019",71.6,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","IRL","Ireland","2020","2020",76.1,"D; P","Difference in methodology; Provisional value"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2010","2010",59.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2011","2011",59.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2012","2012",57.5,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2013","2013",62.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2014","2014",57,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2015","2015",55,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2016","2016",60,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2017","2017",59.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2018","2018",60.5,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2019","2019",60.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2020","2020",51,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2010","2010",58.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2011","2011",58.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2012","2012",65.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2013","2013",64.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2014","2014",65.5,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2015","2015",66.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2016","2016",68.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2017","2017",68.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2018","2018",69.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2019","2019",70.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2020","2020",63.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LUX","Luxembourg","2010","2010",62,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LUX","Luxembourg","2011","2011",55.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LUX","Luxembourg","2012","2012",64.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LUX","Luxembourg","2013","2013",56.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LUX","Luxembourg","2014","2014",61,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LUX","Luxembourg","2015","2015",58.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LUX","Luxembourg","2016","2016",58.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LUX","Luxembourg","2017","2017",57.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LUX","Luxembourg","2018","2018",55.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LUX","Luxembourg","2019","2019",53.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LUX","Luxembourg","2020","2020",50.8,"P","Provisional value"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","MEX","Mexico","2010","2010",18.5,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","MEX","Mexico","2011","2011",20,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","MEX","Mexico","2012","2012",20,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","MEX","Mexico","2013","2013",38.5,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","MEX","Mexico","2014","2014",57.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","MEX","Mexico","2015","2015",25.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","MEX","Mexico","2016","2016",30.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","MEX","Mexico","2017","2017",40.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","MEX","Mexico","2018","2018",36.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","MEX","Mexico","2019","2019",45.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","MEX","Mexico","2020","2020",20.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2010","2010",81.5,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2011","2011",80.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2012","2012",80.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2013","2013",80.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2014","2014",79.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2015","2015",78.2,"E","Estimated value"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2016","2016",77.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2017","2017",77.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2018","2018",77,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2019","2019",76.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2020","2020",70.4,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NZL","New Zealand","2010","2010",67.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NZL","New Zealand","2011","2011",69.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NZL","New Zealand","2012","2012",70.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NZL","New Zealand","2013","2013",71.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NZL","New Zealand","2014","2014",71.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NZL","New Zealand","2015","2015",71.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NZL","New Zealand","2016","2016",71.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NZL","New Zealand","2017","2017",71.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NZL","New Zealand","2018","2018",71.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NZL","New Zealand","2019","2019",71.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NZL","New Zealand","2020","2020",66.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NZL","New Zealand","2021","2021",63.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NOR","Norway","2010","2010",71.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NOR","Norway","2011","2011",70.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NOR","Norway","2012","2012",70.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NOR","Norway","2013","2013",70.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NOR","Norway","2014","2014",70.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NOR","Norway","2015","2015",71.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NOR","Norway","2016","2016",72.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NOR","Norway","2017","2017",72,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NOR","Norway","2018","2018",71.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NOR","Norway","2019","2019",71.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NOR","Norway","2020","2020",62.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","NOR","Norway","2021","2021",65.5,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVK","Slovak Republic","2010","2010",32.7,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVK","Slovak Republic","2011","2011",31.1,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVK","Slovak Republic","2012","2012",31.6,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVK","Slovak Republic","2013","2013",30.5,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVK","Slovak Republic","2014","2014",30.1,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVK","Slovak Republic","2015","2015",30.4,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVK","Slovak Republic","2016","2016",30.8,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVK","Slovak Republic","2017","2017",30.7,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVK","Slovak Republic","2018","2018",30.4,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVK","Slovak Republic","2019","2019",31,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVK","Slovak Republic","2020","2020",27.2,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","TUR","Türkiye","2013","2013",30.2,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","TUR","Türkiye","2014","2014",30.8,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","TUR","Türkiye","2015","2015",31,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","TUR","Türkiye","2016","2016",33.2,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","TUR","Türkiye","2017","2017",33.3,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","TUR","Türkiye","2018","2018",34.8,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","TUR","Türkiye","2019","2019",36,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","TUR","Türkiye","2020","2020",26.9,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","GBR","United Kingdom","2010","2010",76.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","GBR","United Kingdom","2011","2011",77.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","GBR","United Kingdom","2012","2012",76.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","GBR","United Kingdom","2013","2013",75.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","GBR","United Kingdom","2014","2014",75.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","GBR","United Kingdom","2015","2015",75.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","GBR","United Kingdom","2016","2016",75.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","GBR","United Kingdom","2017","2017",75.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","GBR","United Kingdom","2018","2018",75.2,"E","Estimated value"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","GBR","United Kingdom","2019","2019",75.1,"E","Estimated value"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","GBR","United Kingdom","2020","2020",74.2,"E","Estimated value"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CHL","Chile","2011","2011",19.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CHL","Chile","2012","2012",25.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CHL","Chile","2013","2013",32.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CHL","Chile","2014","2014",35,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CHL","Chile","2015","2015",36.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CHL","Chile","2016","2016",37.5,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CHL","Chile","2017","2017",37.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CHL","Chile","2018","2018",39.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CHL","Chile","2019","2019",40.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CHL","Chile","2020","2020",35.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","CHL","Chile","2021","2021",35.6,"P","Provisional value"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","EST","Estonia","2010","2010",62,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","EST","Estonia","2011","2011",51,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","EST","Estonia","2012","2012",52,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","EST","Estonia","2013","2013",53.4,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","EST","Estonia","2014","2014",58,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","EST","Estonia","2015","2015",50.8,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","EST","Estonia","2016","2016",56.3,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","EST","Estonia","2017","2017",55.9,"D","Difference in methodology"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","EST","Estonia","2018","2018",52.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","EST","Estonia","2019","2019",55.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","EST","Estonia","2020","2020",53.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISR","Israel","2010","2010",68.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISR","Israel","2011","2011",66.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISR","Israel","2012","2012",68.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISR","Israel","2013","2013",69.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISR","Israel","2014","2014",69.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISR","Israel","2015","2015",70.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISR","Israel","2016","2016",70.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISR","Israel","2017","2017",71,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISR","Israel","2018","2018",72.5,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISR","Israel","2019","2019",72.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","ISR","Israel","2020","2020",70.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVN","Slovenia","2010","2010",85.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVN","Slovenia","2011","2011",72.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVN","Slovenia","2012","2012",69.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVN","Slovenia","2013","2013",82.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVN","Slovenia","2014","2014",78.5,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVN","Slovenia","2015","2015",81.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVN","Slovenia","2016","2016",76.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVN","Slovenia","2017","2017",70.5,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVN","Slovenia","2018","2018",74.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVN","Slovenia","2019","2019",76.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVN","Slovenia","2020","2020",74.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","SVN","Slovenia","2021","2021",77.2,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","AUT","Austria","2014","2014",72.7,"B","Break"
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","AUT","Austria","2019","2019",74.5,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","BEL","Belgium","2013","2013",75.5,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","BEL","Belgium","2018","2018",67.3,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","CAN","Canada","2012","2012",72.2,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","CAN","Canada","2017","2017",78.5,"B; D","Break; Difference in methodology"
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","CZE","Czech Republic","2014","2014",76.7,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","CZE","Czech Republic","2019","2019",77.1,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","DNK","Denmark","2017","2017",75,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","FRA","France","2010","2010",75.4,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","FRA","France","2014","2014",75,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","FRA","France","2019","2019",70,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","DEU","Germany","2012","2012",71.3,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","DEU","Germany","2014","2014",73.5,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","DEU","Germany","2019","2019",65.7,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","GRC","Greece","2014","2014",59.6,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","GRC","Greece","2019","2019",65.7,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","HUN","Hungary","2014","2014",64.9,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","HUN","Hungary","2019","2019",60,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","IRL","Ireland","2015","2015",74.9,"E","Estimated value"
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2010","2010",70.1,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2011","2011",69.9,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2012","2012",70.4,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2013","2013",72,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2014","2014",71.5,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2015","2015",73.3,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2016","2016",74,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2017","2017",75.2,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2018","2018",74.8,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2019","2019",75.1,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ITA","Italy","2020","2020",72.5,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","JPN","Japan","2010","2010",36.4,"B","Break"
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","JPN","Japan","2013","2013",41,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","JPN","Japan","2016","2016",42.3,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","JPN","Japan","2019","2019",44.6,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2010","2010",63.6,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2011","2011",63.5,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2012","2012",74.1,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2014","2014",67.6,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2015","2015",61.6,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2016","2016",65.3,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2017","2017",64.8,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2018","2018",64.4,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2019","2019",63.2,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","KOR","Korea","2020","2020",65.9,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","LUX","Luxembourg","2014","2014",81,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","LUX","Luxembourg","2019","2019",77.8,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2010","2010",87.6,"B","Break"
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2011","2011",85.6,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2012","2012",87.3,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2013","2013",85.3,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2014","2014",79.8,"B","Break"
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2015","2015",79.6,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2016","2016",77.9,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2017","2017",79.3,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2018","2018",79.8,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","NLD","Netherlands","2019","2019",77.1,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","POL","Poland","2014","2014",58.6,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","POL","Poland","2019","2019",53.7,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","PRT","Portugal","2014","2014",84.2,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","PRT","Portugal","2019","2019",80.2,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","SVK","Slovak Republic","2014","2014",54.1,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","SVK","Slovak Republic","2019","2019",53.5,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ESP","Spain","2011","2011",77.1,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ESP","Spain","2014","2014",79.8,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ESP","Spain","2017","2017",81.5,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ESP","Spain","2020","2020",73.8,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","SWE","Sweden","2014","2014",90.4,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","SWE","Sweden","2019","2019",95.2,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","CHE","Switzerland","2012","2012",47.4,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","CHE","Switzerland","2017","2017",49,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","TUR","Türkiye","2014","2014",24.7,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","TUR","Türkiye","2016","2016",28.1,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","TUR","Türkiye","2019","2019",30.7,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","GBR","United Kingdom","2014","2014",57.9,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","USA","United States","2010","2010",80.4,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","USA","United States","2013","2013",80.8,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","USA","United States","2015","2015",79.5,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","USA","United States","2018","2018",80.7,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","USA","United States","2019","2019",76.5,"B","Break"
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","CHL","Chile","2011","2011",51.7,"D","Difference in methodology"
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","CHL","Chile","2013","2013",51.6,"D","Difference in methodology"
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","CHL","Chile","2015","2015",56.8,"D","Difference in methodology"
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","CHL","Chile","2017","2017",52.8,"D","Difference in methodology"
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","EST","Estonia","2014","2014",39,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","EST","Estonia","2019","2019",43.6,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ISR","Israel","2010","2010",74.7,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ISR","Israel","2015","2015",82.6,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","ISR","Israel","2019","2019",83.9,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","SVN","Slovenia","2014","2014",72.1,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","SVN","Slovenia","2019","2019",82.3,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LVA","Latvia","2010","2010",15.3,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LVA","Latvia","2011","2011",34.5,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LVA","Latvia","2012","2012",26.7,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LVA","Latvia","2013","2013",27.4,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LVA","Latvia","2014","2014",27.8,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LVA","Latvia","2015","2015",25,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LVA","Latvia","2016","2016",25.2,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LVA","Latvia","2017","2017",39,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LVA","Latvia","2018","2018",43.8,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LVA","Latvia","2019","2019",39.7,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LVA","Latvia","2020","2020",33.8,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LVA","Latvia","2021","2021",35.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LVA","Latvia","2010","2010",19.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LVA","Latvia","2011","2011",33.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LVA","Latvia","2012","2012",32.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LVA","Latvia","2013","2013",34.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LVA","Latvia","2014","2014",35.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LVA","Latvia","2015","2015",34.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LVA","Latvia","2016","2016",27.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LVA","Latvia","2017","2017",44,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LVA","Latvia","2018","2018",42.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LVA","Latvia","2019","2019",39.1,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LVA","Latvia","2020","2020",29.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LVA","Latvia","2021","2021",30.8,,
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LTU","Lithuania","2010","2010",43.2,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LTU","Lithuania","2011","2011",42.7,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LTU","Lithuania","2012","2012",43.8,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LTU","Lithuania","2013","2013",45.6,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LTU","Lithuania","2014","2014",46.7,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LTU","Lithuania","2015","2015",47.7,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LTU","Lithuania","2016","2016",50.1,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LTU","Lithuania","2017","2017",50.9,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LTU","Lithuania","2018","2018",51,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LTU","Lithuania","2019","2019",52.5,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LTU","Lithuania","2020","2020",52.1,"D","Difference in methodology"
+"SCRNCRCP","Cervical cancer screening, programme data","FECSCRTX","% of females aged 20-69 screened","LTU","Lithuania","2021","2021",53.5,"D; P","Difference in methodology; Provisional value"
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LTU","Lithuania","2010","2010",28.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LTU","Lithuania","2011","2011",32.6,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LTU","Lithuania","2012","2012",37.5,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LTU","Lithuania","2013","2013",38.4,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LTU","Lithuania","2014","2014",40.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LTU","Lithuania","2015","2015",44.8,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LTU","Lithuania","2016","2016",46.2,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LTU","Lithuania","2017","2017",48.3,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LTU","Lithuania","2018","2018",50,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LTU","Lithuania","2019","2019",52.9,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LTU","Lithuania","2020","2020",45.7,,
+"SCRNMAMP","Breast cancer screening, programme data","FEMSCRTX","% of females aged 50-69 screened","LTU","Lithuania","2021","2021",45.5,"P","Provisional value"
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","LTU","Lithuania","2014","2014",46.5,,
+"SCRNMAMS","Breast cancer screening, survey data","FEMSCRTX","% of females aged 50-69 screened","LTU","Lithuania","2019","2019",52.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LTU","Lithuania","2014","2014",39.1,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LTU","Lithuania","2015","2015",49.9,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LTU","Lithuania","2016","2016",49.9,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LTU","Lithuania","2017","2017",51.1,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LTU","Lithuania","2018","2018",52.8,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LTU","Lithuania","2019","2019",55.7,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LTU","Lithuania","2020","2020",47.2,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LTU","Lithuania","2021","2021",48,"D; P","Difference in methodology; Provisional value"
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","BEL","Belgium","2018","2018",51.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ISR","Israel","2010","2010",50,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ISR","Israel","2011","2011",52.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ISR","Israel","2012","2012",56.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ISR","Israel","2013","2013",58,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ISR","Israel","2014","2014",59.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ISR","Israel","2015","2015",60.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ISR","Israel","2016","2016",59.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ISR","Israel","2017","2017",64.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ISR","Israel","2018","2018",65.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ISR","Israel","2019","2019",66.2,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","ESP","Spain","2017","2017",22.1,"D","Difference in methodology"
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","ESP","Spain","2020","2020",31.5,"D","Difference in methodology"
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","JPN","Japan","2010","2010",23.9,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","JPN","Japan","2013","2013",34.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","JPN","Japan","2016","2016",38.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","JPN","Japan","2019","2019",40.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2010","2010",37.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2011","2011",37.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2012","2012",27.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2013","2013",31.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2014","2014",33.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2015","2015",35.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2016","2016",36.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2017","2017",37.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2018","2018",40.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2019","2019",41.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2020","2020",35.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","USA","United States","2010","2010",58.7,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","USA","United States","2013","2013",57.8,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","USA","United States","2015","2015",62.4,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","USA","United States","2018","2018",65.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","USA","United States","2019","2019",67.5,"B","Break"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","DEU","Germany","2010","2010",25.9,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","DEU","Germany","2011","2011",26.8,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","DEU","Germany","2012","2012",27.5,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","DEU","Germany","2013","2013",24.1,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","DEU","Germany","2014","2014",26,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","DEU","Germany","2015","2015",27.9,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","DEU","Germany","2016","2016",27.6,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","DEU","Germany","2017","2017",29.7,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","DEU","Germany","2018","2018",30.4,"D","Difference in methodology"
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","ISR","Israel","2010","2010",32.4,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","ISR","Israel","2015","2015",42.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","ISR","Israel","2019","2019",39.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","FIN","Finland","2019","2019",83.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","FIN","Finland","2020","2020",82.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","IRL","Ireland","2015","2015",40.2,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","IRL","Ireland","2016","2016",39.9,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","IRL","Ireland","2017","2017",43.2,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","IRL","Ireland","2018","2018",41.2,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","IRL","Ireland","2019","2019",43.1,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","IRL","Ireland","2020","2020",35.6,"D; P","Difference in methodology; Provisional value"
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","TUR","Türkiye","2014","2014",21.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","TUR","Türkiye","2016","2016",25.9,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","TUR","Türkiye","2019","2019",29.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","FRA","France","2010","2010",32.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","FRA","France","2011","2011",31.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","FRA","France","2012","2012",31,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","FRA","France","2013","2013",29.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","FRA","France","2014","2014",22.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","FRA","France","2015","2015",29.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","FRA","France","2016","2016",33.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","FRA","France","2017","2017",32.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","FRA","France","2018","2018",30.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","FRA","France","2019","2019",30.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","FRA","France","2020","2020",28.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","CZE","Czech Republic","2011","2011",22.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","CZE","Czech Republic","2012","2012",23.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","CZE","Czech Republic","2013","2013",24,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","CZE","Czech Republic","2014","2014",28.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","CZE","Czech Republic","2015","2015",30.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","CZE","Czech Republic","2016","2016",28.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","CZE","Czech Republic","2017","2017",28.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","CZE","Czech Republic","2018","2018",28.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","CZE","Czech Republic","2019","2019",28.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","CZE","Czech Republic","2020","2020",25.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2010","2010",38.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2011","2011",37.4,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2012","2012",46.7,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2013","2013",56.3,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2014","2014",64.1,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2015","2015",64.2,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2016","2016",55.3,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2017","2017",60.9,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2018","2018",60.8,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2019","2019",64,"B","Break"
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2020","2020",67.3,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","NLD","Netherlands","2014","2014",9.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","NLD","Netherlands","2015","2015",21.1,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","NLD","Netherlands","2016","2016",34.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","NLD","Netherlands","2017","2017",47.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","NLD","Netherlands","2018","2018",54,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","NLD","Netherlands","2019","2019",61,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","CZE","Czech Republic","2014","2014",37.2,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","CZE","Czech Republic","2019","2019",39.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","TUR","Türkiye","2014","2014",12.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","TUR","Türkiye","2015","2015",18.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","TUR","Türkiye","2016","2016",19.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","TUR","Türkiye","2017","2017",21.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","TUR","Türkiye","2018","2018",21,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","TUR","Türkiye","2019","2019",20.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","TUR","Türkiye","2020","2020",14.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","DNK","Denmark","2014","2014",63.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","DNK","Denmark","2015","2015",63.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","DNK","Denmark","2016","2016",60.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","DNK","Denmark","2017","2017",60.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","DNK","Denmark","2018","2018",60.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","DNK","Denmark","2019","2019",60.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","DNK","Denmark","2020","2020",60.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","NLD","Netherlands","2014","2014",70.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","NLD","Netherlands","2015","2015",71.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","NLD","Netherlands","2016","2016",71.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","NLD","Netherlands","2017","2017",70.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","NLD","Netherlands","2018","2018",70.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","NLD","Netherlands","2019","2019",68.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","NLD","Netherlands","2020","2020",68.9,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","IRL","Ireland","2015","2015",26,"E","Estimated value"
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","GRC","Greece","2019","2019",27.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","FIN","Finland","2019","2019",74.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","FIN","Finland","2020","2020",75.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","TUR","Türkiye","2014","2014",19.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","TUR","Türkiye","2016","2016",23.7,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","TUR","Türkiye","2019","2019",26.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","IRL","Ireland","2015","2015",44.1,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","IRL","Ireland","2016","2016",44.7,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","IRL","Ireland","2017","2017",47.7,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","IRL","Ireland","2018","2018",46.2,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","IRL","Ireland","2019","2019",47.4,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","IRL","Ireland","2020","2020",37.9,"D; P","Difference in methodology; Provisional value"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","FRA","France","2010","2010",29.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","FRA","France","2011","2011",29.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","FRA","France","2012","2012",29,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","FRA","France","2013","2013",27.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","FRA","France","2014","2014",20.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","FRA","France","2015","2015",27.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","FRA","France","2016","2016",31.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","FRA","France","2017","2017",30.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","FRA","France","2018","2018",29.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","FRA","France","2019","2019",29.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","FRA","France","2020","2020",27.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","CAN","Canada","2017","2017",57.7,"E","Estimated value"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","CAN","Canada","2018","2018",59.8,"E","Estimated value"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","CAN","Canada","2019","2019",59.2,"E","Estimated value"
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2010","2010",32.7,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2011","2011",33.3,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2012","2012",42.8,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2013","2013",54.9,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2014","2014",56.2,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2015","2015",55,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2016","2016",53.9,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2017","2017",52.7,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2018","2018",56.1,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2019","2019",61.8,"B","Break"
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","KOR","Korea","2020","2020",62.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","TUR","Türkiye","2014","2014",16.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","TUR","Türkiye","2015","2015",23.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","TUR","Türkiye","2016","2016",25,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","TUR","Türkiye","2017","2017",27.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","TUR","Türkiye","2018","2018",26.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","TUR","Türkiye","2019","2019",25.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","TUR","Türkiye","2020","2020",17.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","EST","Estonia","2016","2016",46.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","EST","Estonia","2017","2017",39.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","EST","Estonia","2018","2018",54.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","EST","Estonia","2019","2019",57.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","EST","Estonia","2020","2020",54.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","NLD","Netherlands","2014","2014",71.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","NLD","Netherlands","2015","2015",73,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","NLD","Netherlands","2016","2016",73.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","NLD","Netherlands","2017","2017",73,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","NLD","Netherlands","2018","2018",72.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","NLD","Netherlands","2019","2019",71.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","NLD","Netherlands","2020","2020",71.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","IRL","Ireland","2015","2015",34,"E","Estimated value"
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","BEL","Belgium","2018","2018",51,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","SVN","Slovenia","2011","2011",47.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","SVN","Slovenia","2012","2012",52.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","SVN","Slovenia","2013","2013",50.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","SVN","Slovenia","2014","2014",50.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","SVN","Slovenia","2015","2015",50.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","SVN","Slovenia","2016","2016",54.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","SVN","Slovenia","2017","2017",52.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","SVN","Slovenia","2018","2018",54.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","SVN","Slovenia","2019","2019",55.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","SVN","Slovenia","2020","2020",54.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","SVN","Slovenia","2021","2021",52.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","LTU","Lithuania","2014","2014",34.4,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","LTU","Lithuania","2015","2015",45.1,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","LTU","Lithuania","2016","2016",46.3,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","LTU","Lithuania","2017","2017",47.8,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","LTU","Lithuania","2018","2018",48.4,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","LTU","Lithuania","2019","2019",51.1,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","LTU","Lithuania","2020","2020",42.7,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","LTU","Lithuania","2021","2021",42.9,"D; P","Difference in methodology; Provisional value"
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","FRA","France","2010","2010",44.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","FRA","France","2014","2014",51.4,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","FRA","France","2019","2019",37.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ISR","Israel","2010","2010",46.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ISR","Israel","2011","2011",49.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ISR","Israel","2012","2012",53.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ISR","Israel","2013","2013",54.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ISR","Israel","2014","2014",56.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ISR","Israel","2015","2015",58.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ISR","Israel","2016","2016",58.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ISR","Israel","2017","2017",62.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ISR","Israel","2018","2018",63.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ISR","Israel","2019","2019",64.4,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","USA","United States","2010","2010",58.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","USA","United States","2013","2013",56.7,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","USA","United States","2015","2015",61.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","USA","United States","2018","2018",65.9,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","USA","United States","2019","2019",68.9,"B","Break"
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","ESP","Spain","2017","2017",21.8,"D","Difference in methodology"
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","ESP","Spain","2020","2020",31.9,"D","Difference in methodology"
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","SVN","Slovenia","2014","2014",60.3,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","SVN","Slovenia","2019","2019",63.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LVA","Latvia","2010","2010",7.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LVA","Latvia","2011","2011",7.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LVA","Latvia","2012","2012",7.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LVA","Latvia","2013","2013",9.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LVA","Latvia","2014","2014",10.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LVA","Latvia","2015","2015",10.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LVA","Latvia","2016","2016",11.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LVA","Latvia","2017","2017",13.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LVA","Latvia","2018","2018",16,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LVA","Latvia","2019","2019",15,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LVA","Latvia","2020","2020",14.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","LVA","Latvia","2021","2021",18.8,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","HUN","Hungary","2014","2014",12.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","HUN","Hungary","2019","2019",15.9,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","PRT","Portugal","2014","2014",35.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","PRT","Portugal","2019","2019",41.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","AUS","Australia","2010","2010",41,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","AUS","Australia","2011","2011",38.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","AUS","Australia","2012","2012",37,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","AUS","Australia","2013","2013",36.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","AUS","Australia","2014","2014",37.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","AUS","Australia","2015","2015",38.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","AUS","Australia","2016","2016",40.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","AUS","Australia","2017","2017",41.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","AUS","Australia","2018","2018",42.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","AUS","Australia","2019","2019",43.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","DEU","Germany","2010","2010",6.6,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","DEU","Germany","2011","2011",7,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","DEU","Germany","2012","2012",7.5,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","DEU","Germany","2013","2013",7.1,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","DEU","Germany","2014","2014",7.6,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","DEU","Germany","2015","2015",8.2,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","DEU","Germany","2016","2016",8.3,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","DEU","Germany","2017","2017",9.9,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","DEU","Germany","2018","2018",10.2,"D","Difference in methodology"
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","ISR","Israel","2010","2010",28.7,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","ISR","Israel","2015","2015",41.4,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","ISR","Israel","2019","2019",39.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","NLD","Netherlands","2014","2014",8.8,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","NLD","Netherlands","2015","2015",20.9,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","NLD","Netherlands","2016","2016",34,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","NLD","Netherlands","2017","2017",46.8,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","NLD","Netherlands","2018","2018",54.9,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","NLD","Netherlands","2019","2019",59.3,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","LUX","Luxembourg","2014","2014",21.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","LUX","Luxembourg","2019","2019",39.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ITA","Italy","2014","2014",44.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ITA","Italy","2015","2015",44.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ITA","Italy","2016","2016",42.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ITA","Italy","2017","2017",43.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ITA","Italy","2018","2018",44.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ITA","Italy","2019","2019",41.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","ITA","Italy","2020","2020",36,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","FRA","France","2014","2014",52.4,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","FRA","France","2019","2019",37.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ISR","Israel","2010","2010",48.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ISR","Israel","2011","2011",50.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ISR","Israel","2012","2012",55.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ISR","Israel","2013","2013",56.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ISR","Israel","2014","2014",58.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ISR","Israel","2015","2015",59.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ISR","Israel","2016","2016",59,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ISR","Israel","2017","2017",63.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ISR","Israel","2018","2018",64.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ISR","Israel","2019","2019",65.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","AUS","Australia","2010","2010",37.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","AUS","Australia","2011","2011",35.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","AUS","Australia","2012","2012",34.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","AUS","Australia","2013","2013",33.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","AUS","Australia","2014","2014",34.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","AUS","Australia","2015","2015",36.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","AUS","Australia","2016","2016",39,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","AUS","Australia","2017","2017",39.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","AUS","Australia","2018","2018",40.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","AUS","Australia","2019","2019",41.3,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","HUN","Hungary","2014","2014",13.8,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","HUN","Hungary","2019","2019",15.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2010","2010",34,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2011","2011",32.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2012","2012",26,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2013","2013",29.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2014","2014",31,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2015","2015",33.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2016","2016",34.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2017","2017",35.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2018","2018",39.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2019","2019",40.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","KOR","Korea","2020","2020",34.7,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","CZE","Czech Republic","2014","2014",35.8,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","CZE","Czech Republic","2019","2019",38.1,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","LUX","Luxembourg","2014","2014",25.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","LUX","Luxembourg","2019","2019",40.4,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","PRT","Portugal","2014","2014",35,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","PRT","Portugal","2019","2019",40.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","DEU","Germany","2010","2010",16.3,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","DEU","Germany","2011","2011",16.9,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","DEU","Germany","2012","2012",17.5,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","DEU","Germany","2013","2013",15.6,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","DEU","Germany","2014","2014",16.8,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","DEU","Germany","2015","2015",18.1,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","DEU","Germany","2016","2016",18,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","DEU","Germany","2017","2017",19.8,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","DEU","Germany","2018","2018",20.3,"D","Difference in methodology"
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","ESP","Spain","2017","2017",21.6,"D","Difference in methodology"
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","ESP","Spain","2020","2020",32.3,"D","Difference in methodology"
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2010","2010",35.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2011","2011",35.3,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2012","2012",44.7,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2013","2013",55.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2014","2014",60.1,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2015","2015",59.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2016","2016",54.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2017","2017",56.8,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2018","2018",58.4,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2019","2019",62.9,"B","Break"
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2020","2020",64.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","TUR","Türkiye","2014","2014",14.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","TUR","Türkiye","2015","2015",21,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","TUR","Türkiye","2016","2016",22.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","TUR","Türkiye","2017","2017",24.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","TUR","Türkiye","2018","2018",23.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","TUR","Türkiye","2019","2019",22.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","TUR","Türkiye","2020","2020",15.9,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","GRC","Greece","2019","2019",28.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","JPN","Japan","2010","2010",26,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","JPN","Japan","2013","2013",37.9,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","JPN","Japan","2016","2016",41.4,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","JPN","Japan","2019","2019",44.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ITA","Italy","2014","2014",41.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ITA","Italy","2015","2015",40.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ITA","Italy","2016","2016",39.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ITA","Italy","2017","2017",39.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ITA","Italy","2018","2018",40.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ITA","Italy","2019","2019",38.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","ITA","Italy","2020","2020",32,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","ISR","Israel","2010","2010",25.7,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","ISR","Israel","2015","2015",40.4,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","ISR","Israel","2019","2019",39.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","EST","Estonia","2016","2016",41.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","EST","Estonia","2017","2017",35.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","EST","Estonia","2018","2018",49.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","EST","Estonia","2019","2019",52.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","EST","Estonia","2020","2020",49.8,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","SVN","Slovenia","2014","2014",58.3,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","SVN","Slovenia","2019","2019",59.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2010","2010",36.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2011","2011",38.3,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2012","2012",39.4,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2013","2013",41.7,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2014","2014",43.1,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2015","2015",46,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2016","2016",47.1,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2017","2017",45.7,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2018","2018",47.7,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2019","2019",49.8,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2020","2020",44.1,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","BEL","Belgium","2018","2018",52.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","TUR","Türkiye","2014","2014",23.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","TUR","Türkiye","2016","2016",28,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","TUR","Türkiye","2019","2019",31.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","SVN","Slovenia","2011","2011",57.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","SVN","Slovenia","2012","2012",63.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","SVN","Slovenia","2013","2013",61.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","SVN","Slovenia","2014","2014",62.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","SVN","Slovenia","2015","2015",59.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","SVN","Slovenia","2016","2016",65.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","SVN","Slovenia","2017","2017",63.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","SVN","Slovenia","2018","2018",65.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","SVN","Slovenia","2019","2019",67,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","SVN","Slovenia","2020","2020",65.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","SVN","Slovenia","2021","2021",64.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","CZE","Czech Republic","2011","2011",26.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","CZE","Czech Republic","2012","2012",27.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","CZE","Czech Republic","2013","2013",28.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","CZE","Czech Republic","2014","2014",32.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","CZE","Czech Republic","2015","2015",34.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","CZE","Czech Republic","2016","2016",32.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","CZE","Czech Republic","2017","2017",32,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","CZE","Czech Republic","2018","2018",31.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","CZE","Czech Republic","2019","2019",31.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","CZE","Czech Republic","2020","2020",28.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","NLD","Netherlands","2014","2014",10.3,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","NLD","Netherlands","2015","2015",21.3,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","NLD","Netherlands","2016","2016",35.2,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","NLD","Netherlands","2017","2017",48.3,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","NLD","Netherlands","2018","2018",53,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","NLD","Netherlands","2019","2019",62.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","GRC","Greece","2019","2019",26.8,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","IRL","Ireland","2015","2015",30,"E","Estimated value"
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","CZE","Czech Republic","2011","2011",24.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","CZE","Czech Republic","2012","2012",25.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","CZE","Czech Republic","2013","2013",26.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","CZE","Czech Republic","2014","2014",31,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","CZE","Czech Republic","2015","2015",32.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","CZE","Czech Republic","2016","2016",30.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","CZE","Czech Republic","2017","2017",30.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","CZE","Czech Republic","2018","2018",30.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","CZE","Czech Republic","2019","2019",30.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","CZE","Czech Republic","2020","2020",27.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2014","2014",43.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2015","2015",42.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2016","2016",41.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2017","2017",41.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2018","2018",42.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2019","2019",40.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","ITA","Italy","2020","2020",34.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","EST","Estonia","2016","2016",36.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","EST","Estonia","2017","2017",31.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","EST","Estonia","2018","2018",43.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","EST","Estonia","2019","2019",46.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","EST","Estonia","2020","2020",43.9,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","USA","United States","2010","2010",58.8,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","USA","United States","2013","2013",58.9,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","USA","United States","2015","2015",63.2,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","USA","United States","2018","2018",65.2,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","USA","United States","2019","2019",65.9,"B","Break"
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","LUX","Luxembourg","2014","2014",30.1,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","LUX","Luxembourg","2019","2019",41.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","CAN","Canada","2017","2017",40.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","CAN","Canada","2018","2018",42.3,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","CAN","Canada","2019","2019",43,"E","Estimated value"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","NLD","Netherlands","2014","2014",72.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","NLD","Netherlands","2015","2015",74.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","NLD","Netherlands","2016","2016",75,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","NLD","Netherlands","2017","2017",75,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","NLD","Netherlands","2018","2018",75.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","NLD","Netherlands","2019","2019",74.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","NLD","Netherlands","2020","2020",74.2,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","SVN","Slovenia","2014","2014",62.3,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","SVN","Slovenia","2019","2019",67,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","CZE","Czech Republic","2014","2014",38.4,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","CZE","Czech Republic","2019","2019",41.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","AUS","Australia","2010","2010",44.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","AUS","Australia","2011","2011",41.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","AUS","Australia","2012","2012",39.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","AUS","Australia","2013","2013",38.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","AUS","Australia","2014","2014",40.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","AUS","Australia","2015","2015",41.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","AUS","Australia","2016","2016",42.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","AUS","Australia","2017","2017",43.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","AUS","Australia","2018","2018",44.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","AUS","Australia","2019","2019",45.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","FRA","France","2010","2010",34,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","FRA","France","2011","2011",33.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","FRA","France","2012","2012",32.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","FRA","France","2013","2013",31.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","FRA","France","2014","2014",23.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","FRA","France","2015","2015",30.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","FRA","France","2016","2016",34.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","FRA","France","2017","2017",33.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","FRA","France","2018","2018",31.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","FRA","France","2019","2019",31.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","FRA","France","2020","2020",30,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2010","2010",35.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2011","2011",34.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2012","2012",27,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2013","2013",30.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2014","2014",32.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2015","2015",34.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2016","2016",35.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2017","2017",36.7,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2018","2018",39.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2019","2019",41,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","KOR","Korea","2020","2020",35.2,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","PRT","Portugal","2014","2014",36.1,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","PRT","Portugal","2019","2019",41.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","SVN","Slovenia","2011","2011",52.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","SVN","Slovenia","2012","2012",57.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","SVN","Slovenia","2013","2013",56.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","SVN","Slovenia","2014","2014",56.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","SVN","Slovenia","2015","2015",55.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","SVN","Slovenia","2016","2016",60.2,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","SVN","Slovenia","2017","2017",58.4,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","SVN","Slovenia","2018","2018",59.9,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","SVN","Slovenia","2019","2019",61.3,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","SVN","Slovenia","2020","2020",60.1,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","SVN","Slovenia","2021","2021",58.6,,
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","IRL","Ireland","2015","2015",36.4,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","IRL","Ireland","2016","2016",35.5,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","IRL","Ireland","2017","2017",38.9,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","IRL","Ireland","2018","2018",36.3,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","IRL","Ireland","2019","2019",38.8,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","MALSCRTX","% of males aged 50-74 screened","IRL","Ireland","2020","2020",33.3,"D; P","Difference in methodology; Provisional value"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","LTU","Lithuania","2014","2014",42.6,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","LTU","Lithuania","2015","2015",53.5,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","LTU","Lithuania","2016","2016",52.5,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","LTU","Lithuania","2017","2017",55.4,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","LTU","Lithuania","2018","2018",56.1,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","LTU","Lithuania","2019","2019",59.3,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","LTU","Lithuania","2020","2020",50.8,"D","Difference in methodology"
+"SCRNCOLP","Colorectal cancer screening, programme data","FELSCRTX","% of females aged 50-74 screened","LTU","Lithuania","2021","2021",51.9,"D; P","Difference in methodology; Provisional value"
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","HUN","Hungary","2014","2014",13.3,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","HUN","Hungary","2019","2019",15.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","FRA","France","2014","2014",50.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","FRA","France","2019","2019",36.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","JPN","Japan","2010","2010",28.1,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","JPN","Japan","2013","2013",41.4,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","JPN","Japan","2016","2016",44.5,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","JPN","Japan","2019","2019",47.8,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","FIN","Finland","2019","2019",79.5,,
+"SCRNCOLP","Colorectal cancer screening, programme data","TOLSCRTX","% of population aged 50-74 screened","FIN","Finland","2020","2020",79.1,,
+"SCRNCOLS","Colorectal cancer screening, survey data","TOLSCRTX","% of population aged 50-74 screened","EST","Estonia","2019","2019",32.6,,
+"SCRNCOLS","Colorectal cancer screening, survey data","FELSCRTX","% of females aged 50-74 screened","EST","Estonia","2019","2019",34.1,,
+"SCRNCOLS","Colorectal cancer screening, survey data","MALSCRTX","% of males aged 50-74 screened","EST","Estonia","2019","2019",30.3,,
